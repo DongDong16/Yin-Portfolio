@@ -41,4 +41,4 @@ Outside class, I wish I can learn free diving someday (Unfortunately this can on
 # Portfolio.
 
 My data visualization debut goes here.
-![image](https://github.com/DongDong16/Yin-Portfolio/blob/main/IMG_0400.PNG)
+
