@@ -18,17 +18,18 @@ Hobbies includes: TV series/Skiing/Tango/Lego/Polaroid/Shoes/Flower Arrangement/
 
 # What I hope to learn
 
-:blue_book:
-
 Many stuffs from this class and many stuffs outside this class!
+
+:blue_book: From the class
+
 Now that tools for visualizing increasingly improve, I can create amazing charts faster. I hope at th end of the class I will be able to create graphics that  allow for interactivity and dynamic updating of visuals. That requires me to understand the essence of data visulization and make critics on data visiluzation works. Ultimately, I would like to have a cool portofolio to show. It would be a great bonus to get inspired by my peer in this class on data visulization and other topics.
 
-:movie_camera:
+:movie_camera: After graduation
 
 I would like to work for film festivals after graduation, and having datavisulization skiils can help me to form more concise and straightforward presentaions to my costumers and employers.Can't wait to put this in my skill kit. 
 
 
-:snowboarder:
+:snowboarder: Other interests
 
 Outside class, I wish I learn free diving someday (Unfortunately this can only happen after COVID). And I am still trying to figure out am I too short to motorbike riding.
 
