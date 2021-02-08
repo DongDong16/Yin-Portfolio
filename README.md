@@ -42,3 +42,5 @@ Outside class, I wish I can learn free diving someday (Unfortunately this can on
 
 My data visualization debut goes here.
 
+![Bottom Graphic](IMG_0400.PNG)
+
