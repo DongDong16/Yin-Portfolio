@@ -16,6 +16,7 @@ Program: MEIM
 Hobbies includes: TV series/Skiing/Tango/Lego/Polaroid/Shoes/Flower Arrangement/Cartoon
 
 
+
 # What I hope to learn
 
 Many stuffs from this class and many stuffs outside this class!
@@ -31,7 +32,7 @@ I would like to work for film festivals after graduation, and having datavisuliz
 
 :snowboarder: Other interests
 
-Outside class, I wish I learn free diving someday (Unfortunately this can only happen after COVID). And I am still trying to figure out am I too short to motorbike riding.
+Outside class, I wish I can learn free diving someday (Unfortunately this can only happen after COVID). And I am still trying to figure out am I too short to motorbike riding.
 
 
 # Portfolio.
