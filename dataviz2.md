@@ -17,3 +17,6 @@ This bar chart shows the govenment debt situdation in 2018 in ascending scale. E
 Thi grid of line charts show vividly how the ratio changes by year for each country.
 
 # 
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5295028"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
