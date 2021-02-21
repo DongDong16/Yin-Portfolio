@@ -4,7 +4,7 @@
 
 My data visualization debut goes here.
 
-![Dataviz Graphic](Old.PNG)
+![Dataviz Graphic](Old.jpg)
 
 Source:
 https://www.alabamapublichealth.gov/covid19/assets/cov-al-cases-020221.pdf
@@ -46,6 +46,6 @@ Here, by a very straightforward data visualization, I would like people to read 
 Since this data viz appears on the top page of the report, simplicity is the best. I adopted the old format here.
 
 # My Final Revision
-![New](New.PNG)
+![New](New.jpg)
 
 
