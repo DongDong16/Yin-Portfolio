@@ -2,8 +2,6 @@
 
 # the Original Data Visualization
 
-My data visualization debut goes here.
-
 ![Dataviz Graphic](Old.jpg)
 
 Source:
