@@ -43,3 +43,6 @@ My data visualization debut goes here.
 
 [View Data viz2](/dataviz2.md)
 
+[View assignment3&4](/dassignment3.md)
+
+
