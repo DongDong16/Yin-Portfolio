@@ -34,8 +34,9 @@ My initial idea is like this:
 
 ![sketch](sketch.jpeg)
 
+According to my 1st user feedback, the bar chart below is distracting and has no significant uses. My 2rd user pointed out that she is able to detect th key information immediately. The number 3299 pops out for her and she can almost memorize that number since it was put on a very obvious position. Both my viewers are able to tell what does this graph trying to tell correctly.
 
-According to my user feedback, the bar chart below is distracting and has no significant uses. Audience cannot react with the large number like 452,398, however the +3,299 people will see how serious the problem is. Similarly, 138,639 has no clear meaning for audience, but 0.06 of the total test will tell people that only a very small portion of the tests is antibody.
+Audience cannot react with the large number like 452,398, however the +3,299 people will see how serious the problem is. Similarly, 138,639 has no clear meaning for audience, but 0.06 of the total test will tell people that only a very small portion of the tests is antibody.
 
 Those two numbers can pass the urgency of the pandemic to viewers. It is also helpful to add how many current cases there are, not accumulated and how many cases are cured and dead on daily basis. However, I don’t have those data in my hand.  
 
